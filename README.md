@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DEFEND-SR Lite
 
 Evidence-preserving x2 restoration prototype for degraded grayscale semiconductor inspection images.
@@ -98,3 +99,7 @@ Then verify that the output directory contains one `.npy` file for every input f
 ## Attribution / research basis
 
 The high-level restoration design is inspired by efficient residual image-restoration and super-resolution literature, including NAFNet-style efficiency principles, while this repository contains a small original prototype implementation rather than copied third-party model code.
+=======
+# DEFEND-SR-Lite
+Evidence-Preserving Restoration for Semiconductor Inspection Images
+>>>>>>> 7d7104887dd5f3a928edf60ed4a8af0e356d868f
